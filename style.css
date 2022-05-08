@@ -12,9 +12,17 @@ h2{
     font-size: 30px;
 }
 h3{
+    font-size: 30px;
+}
+
+h4{
     font-size: 25px;
 }
 
 #fotoCoki {
+    width: 400px;
+}
+
+#fotoGordo {
     width: 400px;
 }

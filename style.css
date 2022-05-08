@@ -73,3 +73,18 @@ img{
     background-color: black;
     border-radius: 100%;
 }
+footer{
+    background-color: black;
+    padding: 1rem;
+}
+footer a {
+    display: inline-block;
+    text-align: center;
+    
+}   
+footer a i {
+    font-size: 2rem;
+    margin: 0.5rem;
+    color: rgb(34, 177, 76);
+    
+}

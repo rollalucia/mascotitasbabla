@@ -8,6 +8,27 @@ body{
     margin: 0;
     padding: 0;
 }
+ h4, p, h5 {
+     padding: 10px;
+ }
+header {
+    background-color: black;
+    padding: 1rem;
+}
+nav {
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin: 3px;
+    border: ;
+}
+
+nav li a {
+    color: rgb(34, 177, 76);
+    text-decoration: none;
+}
 
 h1 {
     background-color: rgb(34, 177, 76);

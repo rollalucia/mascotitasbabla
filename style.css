@@ -53,6 +53,7 @@ h4{
 h5 {
     font-size: 30px;
     border-bottom: 1px solid black;
+
 }
 
 img{
@@ -128,4 +129,54 @@ footer a i {
 #centrado {
     max-width: 720px;
     margin: auto;
+}
+
+form {
+    max-width: 300px;
+    margin: auto;
+}
+
+form div {
+    margin-bottom: 6px;
+}
+.negrita {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+#plane:hover {
+    animation-name: enviado;
+    animation-duration: 2s;
+    border: 1px solid black;
+    animation;
+    
+}
+@keyframes enviado {
+   0% {
+       background-color: beige;
+        color: black;
+    }
+    50% {
+        background-color: black;
+        color: white;
+    }
+    100% {
+        background-color: beige;
+        color: black;
+    }
+}
+#plane {
+    padding: .3rem .6rem;
+    border-radius: 250px;
+    border: 1px solid black;
+}
+
+#saludo {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+#carita {
+    font-size: 25px;
 }

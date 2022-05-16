@@ -22,7 +22,7 @@ nav {
 nav li {
     display: inline-block;
     margin: 3px;
-    border: ;
+    /* border: ; */
 }
 
 nav li a {
@@ -148,7 +148,7 @@ form div {
     animation-name: enviado;
     animation-duration: 2s;
     border: 1px solid black;
-    animation;
+    /* animation; */
     
 }
 @keyframes enviado {
